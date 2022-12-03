@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+.heading-bar {
+  box-sizing: border-box;
+  display: flex;
+  height: 100px;
+  margin-right: 20%;
+}
+
+.main-logo {
+  width: 25%;
+  object-fit: cover;
+}
+
+.sign-in-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+
+.sign-in-cont {
+  padding-top: 25px;
+}
+
+.heading-nav {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.quick-nav {
+  padding-bottom: 50px;
+}
+
+h1 h2 {
+  display: block;
+  padding-bottom: 500px;
+}
+
+div > a {
+  color: black;
+  font-style: normal;
+  text-decoration: none;
+  padding-right: 1%;
+}

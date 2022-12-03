@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="../css/styles.css" />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -8,22 +14,38 @@
     <title>Spaghetti Chicken Recipe</title>
   </head>
   <body>
-    <header class="heading-bar">
-      <button>=</button>
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTen7ur5irwuEvi0DAuOrZ-DfgcjxMuc0-GKCZktEr8&s"
-        alt="All recipes logo"
-      />
-      <input type="search" placeholder="Search The Site" />
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1g_tYO8qG3NZLiyWe2gVinRBNp-G266DEgg&usqp=CAU"
-        alt=""
-      />
-      <a href="">Log In</a>
+    <header>
+      <div class="heading-bar">
+        <img
+          class="main-logo"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTen7ur5irwuEvi0DAuOrZ-DfgcjxMuc0-GKCZktEr8&s"
+          alt="All recipes logo"
+        />
+        <input type="search" placeholder="Search The Site" />
+        <div class="sign-in-cont">
+          <img
+            class="sign-in-logo"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1g_tYO8qG3NZLiyWe2gVinRBNp-G266DEgg&usqp=CAU"
+            alt="sign in man"
+          />
+          <a href="">Log In</a>
+        </div>
+      </div>
+      <div class="heading-nav">
+        <a href="">DINNERS</a>
+        <a href="">MEALS</a>
+        <a href="">INGREDIENTS</a>
+        <a href="">OCCASIONS</a>
+        <a href="">CUISINES</a>
+        <a href="">KITCHEN TIPS</a>
+        <a href="">NEWS</a>
+        <a href="">FEATURES</a>
+        <a href="">ABOUT US</a>
+      </div>
     </header>
     <main>
       <header>
-        <nav>
+        <nav class="quick-nav">
           <a href="">Recipes</a>
           <a href="">Main Dishes</a>
           <a href="">Pasta</a>
