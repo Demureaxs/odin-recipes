@@ -81,6 +81,8 @@ div > a {
   align-items: center;
   margin-top: 1%;
   margin-bottom: 1%;
+  gap: 2%;
+  margin-left: 2%;
 }
 
 ol {
@@ -98,4 +100,24 @@ ol {
 footer {
   margin-left: 10%;
   margin-top: 5%;
+}
+
+.nutri-facts {
+  margin-bottom: 10px;
+}
+
+#recipe-by {
+  display: inline-block;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+.ballertwo {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+#nutri-jump {
+  display: block;
+  margin-bottom: 20px;
 }
