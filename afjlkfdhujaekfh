@@ -1,0 +1,23 @@
+[33mcommit d93e7a14413643a18c93937d3bdc8de36c993fa7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: demureaxs <118724010+Demureaxs@users.noreply.github.com>
+Date:   Sat Dec 3 17:04:39 2022 +0800
+
+    heading section of the recipe page complete
+
+[33mcommit 78ffa1369e46f498a03be11cddd928cc1204e6cc[m
+Author: demureaxs <118724010+Demureaxs@users.noreply.github.com>
+Date:   Sat Dec 3 16:40:06 2022 +0800
+
+    Created landing page and recipe page
+
+[33mcommit 20019951a74c5f238f2dacb0545b1d68111fce44[m
+Author: demureaxs <118724010+Demureaxs@users.noreply.github.com>
+Date:   Sat Dec 3 16:32:25 2022 +0800
+
+    update the README file to outline the task at hand
+
+[33mcommit 7b959cf1de79e06f43287937b4a2eddfbce00083[m
+Author: Demureaxs <118724010+Demureaxs@users.noreply.github.com>
+Date:   Sat Dec 3 16:22:20 2022 +0800
+
+    Initial commit
